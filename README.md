@@ -96,6 +96,4 @@ A premium, production-ready OTP Authentication System implementing secure regist
 ---
 
 ## 👤 Author
-Developed by **Hariom Dubey** & **Yash Vashishtha**.
-- GitHub: [Hariom88](https://github.com/Hariom88)
-- GitHub: [vashishtha9411](https://github.com/vashishtha9411)
+Developed by **Anshika Dubey**
